@@ -492,7 +492,7 @@
 		</dict>
 		<dict>
 			<key>match</key>
-			<string>\b(break|case|catch|continue|default|do|else|finally|for|if|import|return|switch|throw|try|while)\b</string>
+			<string>\b(break|case|catch|continue|default|do|else|finally|for|if|import|return|switch|throw|try|while|from)\b</string>
 			<key>name</key>
 			<string>keyword.control.js</string>
 		</dict>
