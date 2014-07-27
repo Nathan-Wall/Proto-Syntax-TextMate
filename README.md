@@ -8,4 +8,4 @@ This has been tested in Sublime Text 2.  It should theoretically work in TextMat
 
 Copy the `Proto.tmLanguage` file into your `Packages` folder for Sublime Text.
 
-Then in Sublime Text click **View -> Syntax -> Open all with current extension as... -> Proto**.
+Restart Sublime Text, then open a `.pr` file and click **View -> Syntax -> Open all with current extension as... -> Proto**.
